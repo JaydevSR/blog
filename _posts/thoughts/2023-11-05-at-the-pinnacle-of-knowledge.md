@@ -2,7 +2,7 @@
 layout: post
 title: What is sunrise like at the pinnacle of human knowledge?
 date: 2023-11-05
-comments: false
+comments: true
 author: Jaydev
 ---
 
