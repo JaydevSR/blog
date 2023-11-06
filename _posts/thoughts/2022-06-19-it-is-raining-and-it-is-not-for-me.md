@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It is raining and It is not for me.
+title: It is raining and it's not for me.
 date: 2022-06-19
 comments: false
 author: Jaydev
