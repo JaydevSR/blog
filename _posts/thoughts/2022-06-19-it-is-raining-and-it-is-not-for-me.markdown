@@ -4,6 +4,7 @@ title: It is raining and it's not for me.
 date: 2022-06-19
 comments: true
 author: Jaydev
+categories: Thoughts
 ---
 
 Clouds had been slowly taking over the sky since afternoon. I knew it was going to rain but the faint lightning in the sky attracted me. I couldn't just sit in my dark room, by the way which was dark to keep the bugs out. Usually, I don't like to stay outside with lightning over my head but this time it was at some great distance so I went for a walk.

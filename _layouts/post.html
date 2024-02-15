@@ -15,6 +15,20 @@ layout: default
       {% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author | escape }}</span></span>, {% endif %}
       <br />
       {% if page.date %} <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> {% endif %}
+      <br /><br />
+
+      <div class="post-categories">
+        {% if post %}
+          {% assign categories = post.categories %}
+        {% else %}
+          {% assign categories = page.categories %}
+        {% endif %}
+        More: {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </div>
+
     </div>
 
     {% if page.tags.size > 0 %}

@@ -1,7 +1,6 @@
 ---
-title: Thoughts that reached the keyboard.
-layout: post-list
-filter:
-    by_category: thoughts
+title: Thoughts that reached the keyboard
+layout: category-list
+show_only: Thoughts
 navbar_title: Thoughts
 ---

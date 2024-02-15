@@ -4,6 +4,7 @@ title: What is sunrise like at the pinnacle of human knowledge?
 date: 2023-11-05
 comments: true
 author: Jaydev
+categories: Thoughts
 ---
 
 <iframe width="200" height="100" src="https://www.youtube.com/embed/IP34E-ozwEM" title="Into The Universe With Stephen Hawking   The Story of Everything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
